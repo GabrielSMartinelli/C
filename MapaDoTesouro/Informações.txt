@@ -1,0 +1,9 @@
+Autor: Gabriel Santos Martinelli
+
+O programa foi implementado no VS Code. Alguns detalhes importantes:
+
+Se não houver uma localização L, ou se não houver localização X (do tesouro) ou se não houver ilhas, o programa também diz que não há caminho para o tesouro.
+
+O programa espera que o usuário digite apenas uma localização L e uma localização X, não há tratamento de erros para os casos em que houver mais de um L ou mais de um X.
+
+O programa também espera que o usuário digite apenas os símbolos: '#', '.', 'L', 'X'. No caso de outros símbolos, estes serão considerados como terreno também (ilha).

@@ -1,0 +1,17 @@
+Nome do integrante: Gabriel Santos Martinelli
+
+RA:2264951
+
+Considerações:
+
+O programa em questão corrige os erros de expressões inválidas no geral, tais como:
+
+-divisão por zero
+-operação com menos de dois números
+-expressão termina com mais de um número na pilha
+
+Ele executa todas as operações possíveis e somente quando ocorre algo inválido ele imprime a mensagem de erro.
+
+Não foi encontrado nenhum bug após os testes com o programa em sua versão final.
+
+O programa foi feito e testado no VS Code.
